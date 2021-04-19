@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inmana
 
 To start your Phoenix server:
@@ -17,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# inmana
+>>>>>>> 972f760f6a638049308a1c2ef136a807a15489c3
