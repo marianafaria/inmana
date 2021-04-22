@@ -1,23 +1,7 @@
-<<<<<<< HEAD
-# Inmana
+# Projeto Inmana
 
-To start your Phoenix server:
+* Aplicação em Elixir criada a partir do curso NLW#05
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+# Inmana (Inventory Management)
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
-=======
-# inmana
->>>>>>> 972f760f6a638049308a1c2ef136a807a15489c3
+* Prevenção de perdas com gerenciamento inteligente da data de validade de alimentos do restaurate.
